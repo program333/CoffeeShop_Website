@@ -6,5 +6,4 @@ Softwares used:
 <li>JavaScript</li>
 </ol>
 
-Sample images:
-<img src="[image1.jpeg](https://github.com/program333/Coffee_Website/blob/main/Images/image1.jpeg)" alt="Images" width="400">
+<p><a href="https://program333.github.io/Coffee_Website/">Click Here</a> Demo of website</p>
